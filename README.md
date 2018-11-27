@@ -1,2 +1,2 @@
 # euler
-Exercises from the [Euler project](https://projecteuler.net/)
+Quick python [distractions](https://projecteuler.net/) for days when there's more waiting than work to be done ;-)
